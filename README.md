@@ -11,23 +11,23 @@ The new installers and upgrade scripts enable you to install/upgrade  ZPanel dir
 
 Installation for CentOS 6.3+ is as simple as...
 
-```bash <(curl -Ss https://raw.github.com/zpanel/installers/master/install/CentOS-6_4/10_1_1.sh)```
+```bash <(curl -Ss https://raw.github.com/eoghan2t9/installers/master/install/CentOS-6_4/10_1_1.sh)```
 
 ...and to upgrade your server (for example from ZPanel 10.1.0 to 10.1.1):-
 
-```bash <(curl -Ss https://raw.github.com/zpanel/installers/master/upgrade/CentOS-6_4/10_1_1.sh)```
+```bash <(curl -Ss https://raw.github.com/eoghan2t9/installers/master/upgrade/CentOS-6_4/10_1_1.sh)```
 
 
-Advanced users may wish to install or update zpanelx 10.1.1 using our CentOS only repository. Full instructions can be found [here](https://github.com/zpanel/installers/tree/master/install/CentOS/6)
+Advanced users may wish to install or update zpanelx 10.1.1 using our CentOS only repository. Full instructions can be found [here](https://github.com/eoghan2t9/installers/tree/master/install/CentOS/6)
 
 
 Installation for Ubuntu 12.04 LTS is just as simple too...
 
-```bash <(curl -Ss https://raw.github.com/zpanel/installers/master/install/Ubuntu-12_04/10_1_1.sh)```
+```bash <(curl -Ss https://raw.github.com/eoghan2t9/installers/master/install/Ubuntu-12_04/10_1_1.sh)```
 
 ...and to upgrade your server (for example from ZPanel 10.1.0 to 10.1.1):-
 
-```bash <(curl -Ss https://raw.github.com/zpanel/installers/master/upgrade/Ubuntu-12_04/10_1_1.sh)```
+```bash <(curl -Ss https://raw.github.com/eoghan2t9/installers/master/upgrade/Ubuntu-12_04/10_1_1.sh)```
 
 ## Officially supported Operating Systems ##
 
